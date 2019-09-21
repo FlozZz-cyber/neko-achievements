@@ -119,7 +119,7 @@
   level: 1
   algo: duration
   filters: &12
-    franchise: naruto
+  "franchise": "naruto"
   threshold: 96.5%
   metadata: &13
     title_ru: Наруто
